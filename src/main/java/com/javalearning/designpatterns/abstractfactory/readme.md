@@ -1,6 +1,6 @@
 # Abstract Factory 
 
-The Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying
+The Abstract Factory is a **creational** design pattern that lets you produce families of related objects without specifying
 their concrete classes.
 
 Imagine we have 3 objects: `Chair`, `Table`, and `Sofa`.
